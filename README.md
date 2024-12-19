@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Speech recognition (audio to text) and translation**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about **C++, Python, Machine Learning, Deep Learning, Computer Vision**
 
